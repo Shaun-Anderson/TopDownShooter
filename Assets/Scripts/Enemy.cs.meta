@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9d1db92115412af47b68bdaacb0e2191
+timeCreated: 1469943850
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthbar: {instanceID: 0}
+  - rigid: {instanceID: 0}
+  - spriteRend: {instanceID: 0}
+  - flashMat: {fileID: 10756, guid: 0000000000000000e000000000000000, type: 0}
+  - normalMat: {fileID: 10754, guid: 0000000000000000e000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 786a656579d2d044fbc38514712d31cc
+timeCreated: 1497105390
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ice demon
+  fontNames:
+  - ice demon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
